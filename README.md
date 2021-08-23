@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu
 - 👀 I’m interested in web development, competitive programming and deep learning and computer vision.
-- 🌱 I’m currently learning PWA
+- 🌱 I’m currently working on a project in MERNG stack
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me himanshushekhardas2013@gmail.com
 
